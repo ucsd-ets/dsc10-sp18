@@ -8,7 +8,7 @@ test = {
           'code': r"""
           >>> 1 <= characters_q1 <= 5
           True
-          >>> 1 <= characters_q2 <= 2
+          >>> 1 <= characters_q2 <= 5
           True
           """,
           'hidden': False,
