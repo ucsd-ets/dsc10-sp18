@@ -1,6 +1,6 @@
 {
   "name": "Lab 3: Tables",
-  "endpoint": "ucsd/dsc10/wi18/lab03",
+  "endpoint": "ucsd/dsc10/sp18/lab03",
   "src": [
     "lab03.ipynb"
   ],
