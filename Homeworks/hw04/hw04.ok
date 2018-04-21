@@ -1,0 +1,13 @@
+{
+  "name": "Homework 4",
+  "endpoint": "ucsd/dsc10/sp18/hw04",
+  "src": [
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
+    
