@@ -1,8 +1,8 @@
 {
-  "name": "Homework 4",
-  "endpoint": "ucsd/dsc10/sp18/hw04",
+  "name": "Randomization",
+  "endpoint": "ucsd/dsc10/sp18/lab05",
   "src": [
-    "hw04.ipynb"
+    "lab05.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
