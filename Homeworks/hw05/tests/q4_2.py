@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> from datascience import *
-          >>> retweets_likes.num_rows
+          >>> retweets_likes_age.num_rows
           7
           """,
           'hidden': False,
@@ -16,7 +16,7 @@ test = {
           {
           'code': r"""
           >>> from datascience import *
-          >>> retweets_likes.num_columns
+          >>> retweets_likes_age.num_columns
           4
           """,
           'hidden': False,
