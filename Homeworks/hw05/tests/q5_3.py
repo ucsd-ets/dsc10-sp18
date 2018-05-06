@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> min(sixes) >= 1
+          >>> min(sixes) >= 0
           True
           """,
           'hidden': False,
