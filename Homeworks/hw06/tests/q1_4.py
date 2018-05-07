@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> emperical == 2 or emperical == 3
+          >>> empirical == 2 or empirical == 3
           True
           """,
           'hidden': False,
