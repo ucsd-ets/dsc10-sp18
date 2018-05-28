@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> row = vocab_table.where('Word', most_shortened).row(0)
-          >>> len(row['Word']) > len(row['Stem'])
+          >>> len(row.item('Word')) > len(row.item('Stem'))
           True
           """,
           'hidden': False,
