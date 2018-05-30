@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> classify(np.array(test_20.row(0)), train_20, train_lyrics.column('Genre'), 5) in ['Country', 'Hip-hop']
-          True 
+          True
           """,
           'hidden': False,
           'locked': False
