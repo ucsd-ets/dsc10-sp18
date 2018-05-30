@@ -10,7 +10,7 @@ test = {
           True
           >>> solo_accuracies.labels == ('Feature', 'Solo Accuracy')
           True
-          >>> np.allisclose(solo_accuracies.sort(1, descending=True).column(1), solo_accuracies.column(1))
+          >>> np.allclose(solo_accuracies.sort(1, descending=True).column(1), solo_accuracies.column(1))
           True
           """,
           'hidden': False,

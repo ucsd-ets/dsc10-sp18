@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> word_average(country_words).num_rows == country_words.num_columns
+          >>> len(word_average(country_words)) == country_words.num_columns
           True
           """,
           'hidden': False,
